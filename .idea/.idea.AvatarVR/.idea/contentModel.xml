@@ -13,7 +13,7 @@
             <e p="EditorMigrationScripts.asmdef" t="Include" />
           </e>
         </e>
-        <e p="PalmsMoving.cs" t="Include" />
+        <e p="KeyCollider.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="GitHub" t="Include">
             <e p="Editor" t="Include">

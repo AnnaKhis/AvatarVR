@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c5860fa-0a28-4ff4-88a1-841e6e5546a2" name="Default Changelist" comment="" />
+    <list default="true" id="8c5860fa-0a28-4ff4-88a1-841e6e5546a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AvatarVR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AvatarVR/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AvatarVR/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AvatarVR/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AvatarVR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AvatarVR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PalmsMoving.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PalmsMoving.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BodyTracking.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BodyTracking.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/piano/textures/Piano_Wood/blackKeys.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/piano/textures/Piano_Wood/blackKeys.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +21,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/PalmsMoving.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/nyash milash/SKOLKEK/VR AR Haptics/as1/Assets/ObjectIntersection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KeyCollider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/nyash milash/SKOLKEK/VR AR Haptics/as1/Assets/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/nyash milash/SKOLKEK/VR AR Haptics/as1/Assets/ObjectsRandomizer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/KeyCollider.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1cDRvgpWAjLRXgLmSPsKOncze9N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590061419827</updated>
-      <workItem from="1590061470133" duration="682000" />
+      <workItem from="1590061470133" duration="1282000" />
+      <workItem from="1590140185979" duration="7913000" />
     </task>
     <servers />
   </component>
