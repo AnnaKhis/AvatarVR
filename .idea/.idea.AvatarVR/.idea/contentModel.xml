@@ -27,6 +27,7 @@
             </e>
           </e>
         </e>
+        <e p="VRRig.cs" t="Include" />
       </e>
       <e p="AvatarVR.sln" t="IncludeFlat" />
       <e p="EditorMigrationScripts.csproj" t="IncludeRecursive" />
