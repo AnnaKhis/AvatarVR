@@ -10,7 +10,7 @@ public class Sound_Script : MonoBehaviour
     {
         if (Player.gameObject.tag == "Player")
         {
-            NoteSound.Play();   
+            NoteSound.Play();
         }
     }
 }
